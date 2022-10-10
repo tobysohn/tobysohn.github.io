@@ -1,1 +1,40 @@
 /*stylesheet*/
+
+#mainheader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+
+#subheader {
+    color: black;
+    text-align: center;
+}
+
+a:hover {
+    background-color: rgb(252, 244, 153);
+}
+
+img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+div {
+    background-color: beige;
+    border: 5px solid rgb(12, 51, 56);
+    margin: 5px;
+  }
